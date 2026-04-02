@@ -1,43 +1,55 @@
-# Hi, I'm Prince 👋
+# 👋 Hi, I'm Prince Kumar
 
-🎓 B.Tech CSE Student  
-💻 Backend Developer in Progress  
-🚀 Building real-world projects & leveling up daily  
+🚀 Engineering Undergrad | Aspiring Full Stack Developer
+💡 Passionate about building real-world projects
 
 ---
 
-## 🧠 About Me
-- 🔭 Currently working on backend projects (Node.js, APIs)
-- 🌱 Learning full-stack development
-- ⚡ Love building things that actually solve problems
+## 🔥 Featured Project
+
+### 💰 Smart Expense Tracker
+
+👉 https://money-manager-hazel-mu.vercel.app
+
+* Built using HTML, CSS, JavaScript
+* Tracks income, expenses & budget
+* Persistent storage using LocalStorage
+* Clean UI + responsive design
+
+  
+## 📌 Other Projects
+
+### ⚙️ SHIFT (Secure File Transfer System)
+
+* Built a secure sender-receiver system with step-based workflow
+* Features include authentication, controlled access, and secure data handling
+* Focused on system design and logic implementation
+
+👉 https://github.com/DhruvExploring/shift.git
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: JavaScript, Python  
-- ⚙️ Backend: Node.js, Express (learning)  
-- 🗄️ Database: MongoDB (learning)  
-- 🔧 Tools: Git, GitHub, VS Code  
+
+* 💻 Frontend: HTML, CSS, JavaScript
+* ⚙️ Backend (Learning): Node.js, Express
+* 🗄️ Database (Learning): MongoDB
 
 ---
 
-## 📂 Projects
-- 🚀 SHIFT Project (Backend + Frontend)
-- 🔧 More projects coming soon...
+## 📫 Connect with me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/prince-kumar-947545304/
+* 🧑‍💻 GitHub: https://github.com/theprincceee
 
 ---
 
-## 📈 GitHub Goals
-- Build 2–3 strong backend projects
-- Stay consistent every day
-- Improve problem-solving skills
+## 🚀 Goals
+
+* Build 3–5 strong projects
+* Get a software development internship
+* Master full stack development
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: (https://www.linkedin.com/in/prince-kumar-947545304/)
-- 📧 Email: (pk4554405@gmail.com)
-
----
-
-⭐ *“Consistency beats talent when talent doesn’t work hard.”*
+⭐ Always learning, building, and improving!
