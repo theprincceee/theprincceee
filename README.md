@@ -1,55 +1,55 @@
-# 👋 Hi, I'm Prince Kumar
+# Hi, I'm Prince Kr
 
-🚀 Engineering Undergrad | Aspiring Full Stack Developer
-💡 Passionate about building real-world projects
-
----
-
-## 🔥 Featured Project
-
-### 💰 Smart Expense Tracker
-
-👉 https://money-manager-hazel-mu.vercel.app
-
-* Built using HTML, CSS, JavaScript
-* Tracks income, expenses & budget
-* Persistent storage using LocalStorage
-* Clean UI + responsive design
-
-  
-## 📌 Other Projects
-
-### ⚙️ SHIFT (Secure File Transfer System)
-
-* Built a secure sender-receiver system with step-based workflow
-* Features include authentication, controlled access, and secure data handling
-* Focused on system design and logic implementation
-
-👉 https://github.com/DhruvExploring/shift.git
+Engineering undergraduate with a growing interest in full stack development. I enjoy building practical applications and continuously improving my problem-solving and development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Project
 
-* 💻 Frontend: HTML, CSS, JavaScript
-* ⚙️ Backend (Learning): Node.js, Express
-* 🗄️ Database (Learning): MongoDB
+### Smart Expense Tracker
 
----
+https://money-manager-hazel-mu.vercel.app
 
-## 📫 Connect with me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/prince-kumar-947545304/
-* 🧑‍💻 GitHub: https://github.com/theprincceee
+* Built using HTML, CSS, and JavaScript
+* Tracks income, expenses, and overall balance
+* Uses LocalStorage for persistent data
+* Clean, responsive, and user-friendly interface
 
 ---
 
-## 🚀 Goals
+## Other Projects
 
-* Build 3–5 strong projects
-* Get a software development internship
-* Master full stack development
+### SHIFT (Secure File Transfer System)
+
+https://github.com/DhruvExploring/shift.git
+
+* Designed a secure sender–receiver system with a structured workflow
+* Implemented controlled access and basic authentication logic
+* Focused on system design, data handling, and usability
 
 ---
 
-⭐ Always learning, building, and improving!
+## Technical Skills
+
+* Frontend: HTML, CSS, JavaScript
+* Backend (Learning): Node.js, Express
+* Database (Learning): MongoDB
+
+---
+
+## Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/prince-kumar-947545304/
+* GitHub: https://github.com/theprincceee
+
+---
+
+## Current Goals
+
+* Build a strong portfolio with impactful projects
+* Secure a software development internship
+* Develop solid full stack development skills
+
+---
+
+I’m actively learning, building, and open to new opportunities.
