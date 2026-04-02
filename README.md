@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Prince 👋
 
-<!--
-**theprincceee/theprincceee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Backend Developer in Progress  
+🚀 Building real-world projects & leveling up daily  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Currently working on backend projects (Node.js, APIs)
+- 🌱 Learning full-stack development
+- 🎯 Goal: Crack a solid internship in 1 month
+- ⚡ Love building things that actually solve problems
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: JavaScript, Python  
+- ⚙️ Backend: Node.js, Express (learning)  
+- 🗄️ Database: MongoDB (learning)  
+- 🔧 Tools: Git, GitHub, VS Code  
+
+---
+
+## 📂 Projects
+- 🚀 SHIFT Project (Backend + Frontend)
+- 🔧 More projects coming soon...
+
+---
+
+## 📈 GitHub Goals
+- Build 2–3 strong backend projects
+- Stay consistent every day
+- Improve problem-solving skills
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: (https://www.linkedin.com/in/prince-kumar-947545304/)
+- 📧 Email: (pk4554405@gmail.com)
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
