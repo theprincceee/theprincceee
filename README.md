@@ -9,7 +9,6 @@
 ## 🧠 About Me
 - 🔭 Currently working on backend projects (Node.js, APIs)
 - 🌱 Learning full-stack development
-- 🎯 Goal: Crack a solid internship in 1 month
 - ⚡ Love building things that actually solve problems
 
 ---
